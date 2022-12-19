@@ -9,7 +9,7 @@
 - [x] 🖥 Ingenieria de sistemas
 - [x] 🕹 Desarrollo de videojuegos
 - [ ] 🎻 Tocar violin
-- [ ] 🤺 Desarrollar unjuego reconocido
+- [ ] 🤺 Desarrollar un juego reconocido
 
 # 🤔 Mis habilidades
   - Unity 🎮
