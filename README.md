@@ -1,6 +1,4 @@
 <a href="https://twitter.com/S_Mihos">
-<img align="right" height="auto" width="200" src="https://pbs.twimg.com/profile_images/1604930481283276810/uxyPJK_G_400x400.jpg"/> 
-</a>
 
 # Sobre mi
 :man_technologist: 👨‍💻 Soy desarrollador, ingeniero apasionado por la tecnología, actualmente estudiante de Unity. Apasionado por el futbol, los videojuegos y los animales.
@@ -9,7 +7,7 @@
 - [x] 🖥 Ingenieria de sistemas
 - [x] 🕹 Desarrollo de videojuegos
 - [ ] 🎻 Tocar violin
-- [ ] 🤺 Desarrollar un juego reconocido
+- [ ] 🕹 Desarrollar un juego reconocido
 
 # 🤔 Mis habilidades
   -Desarrollo Web
@@ -36,6 +34,8 @@
  </a>
  <a href="https://twitter.com/S_Mihos" target="blank">
   <img align="center" alt="Santiago Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+   <a href="https://santiagorestrepo26.github.io/SantiagoRestrepo" target="blank">
+  <img align="center" alt="Santiago Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/726/726056.png" /> &nbsp; &nbsp;
  </a>
 </p>
 <br/>
