@@ -12,6 +12,8 @@
 - [ ] 🤺 Desarrollar un juego reconocido
 
 # 🤔 Mis habilidades
+  -Desarrollo Web
+  -JavaScript
   - Unity 🎮
   - Modelado 🖍 (Blender, Zbrush)
   - Sprites e ilustraciones 🖍 (Aseprite, Photoshop, Clipstudio)
