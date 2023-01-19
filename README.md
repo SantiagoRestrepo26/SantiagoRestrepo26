@@ -4,9 +4,9 @@
 :man_technologist: 👨‍💻 Soy desarrollador, ingeniero apasionado por la tecnología, actualmente estudiante de Unity. Apasionado por el futbol, los videojuegos y los animales.
 
 # Lista de deseos
-- [x] 🖥 Ingenieria de sistemas
+- [x] 🖥 Ingeniería de sistemas
 - [x] 🕹 Desarrollo de videojuegos
-- [ ] 🎻 Tocar violin
+- [ ] 🎻 Tocar violín
 - [ ] 🕹 Desarrollar un juego reconocido
 
 # 🤔 Mis habilidades
@@ -17,9 +17,9 @@
   - Sprites e ilustraciones 🖍 (Aseprite, Photoshop, Clipstudio)
   
 
-# 🌱 I’m currently learning ...
+# 🌱 actualmente estoy aprendiendo...
   - UnrealEngine 🎲
-  - Dibujo🎆
+  - Dibujo🎆(Continuo mejorando)
   - C#  ✏ (continuo mejorando)
 
 
