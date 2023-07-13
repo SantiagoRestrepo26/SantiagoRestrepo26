@@ -7,23 +7,14 @@
 - [x] 🖥 Ingeniería de sistemas
 - [x] 🕹 Desarrollo de videojuegos
 - [ ] 🎻 Tocar violín
-- [ ] 🕹 Desarrollar un juego reconocido
 
 # 🤔 Mis habilidades
   -Desarrollo Web
   -JavaScript
   - Unity 🎮
-  - Modelado 🖍 (Blender, Zbrush)
-  - Sprites e ilustraciones 🖍 (Aseprite, Photoshop, Clipstudio)
-  
-
-# 🌱 actualmente estoy aprendiendo...
-  - UnrealEngine 🎲
-  - Dibujo🎆(Continuo mejorando)
-  - C#  ✏ (continuo mejorando)
-
-
-
+  - Python
+  - SQL
+  - Linux
 
 <div align="center">
   <h3 align="center">Redes 📫</h3> 
